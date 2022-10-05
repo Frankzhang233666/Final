@@ -1,0 +1,9 @@
+.card2 {
+    width: 200px;
+    height: 265px;
+    background: url("C.png") no-repeat;
+    margin: 50px;
+}
+.card2:hover {
+    background: url("D.png") no-repeat;
+}
